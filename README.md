@@ -15,3 +15,9 @@ The purpose of this web application;
   - `Swagger & Open API`
   - `Firebase & Google Cloud`
   - `Intellij IDEA & Visual Studio Code`
+
+
+
+
+https://user-images.githubusercontent.com/107420863/230238933-a45269be-414f-4361-abd4-b32953b7fecd.mp4
+
